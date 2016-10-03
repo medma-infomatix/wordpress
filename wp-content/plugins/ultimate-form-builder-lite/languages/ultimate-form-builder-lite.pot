@@ -1,0 +1,904 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate form builder lite\n"
+"POT-Creation-Date: 2016-02-23 15:15+0545\n"
+"PO-Revision-Date: 2016-02-23 15:15+0545\n"
+"Last-Translator: \n"
+"Language-Team: Accesspressthemes <support@accesspressthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../ultimate-form-builder-lite.php:135 ../inc/views/backend/form-list.php:14
+msgid "Forms"
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:136
+msgid "Edit Form"
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:136
+msgid "All Forms"
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:137 ../inc/views/backend/new-form.php:3
+msgid "New Form"
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:138
+#: ../inc/views/backend/form-entries-list.php:10
+msgid "Form Entries"
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:139 ../inc/views/backend/how-to-use.php:3
+msgid "How to use"
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:140 ../inc/views/backend/about.php:3
+msgid "About"
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:153
+msgid "No form found for this form id.Please go back and create a new form."
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:201 ../classes/ufbl-lib.php:108
+#: ../classes/ufbl-lib.php:130 ../classes/ufbl-lib.php:152
+#: ../classes/ufbl-lib.php:175 ../classes/ufbl-lib.php:186
+#: ../classes/ufbl-lib.php:211 ../classes/ufbl-lib.php:223
+#: ../classes/ufbl-lib.php:245
+msgid "This field is required"
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:315
+msgid "This form is closed"
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:319
+msgid "Form couldn't be found for id "
+msgstr ""
+
+#: ../ultimate-form-builder-lite.php:325
+msgid "Form ID missing"
+msgstr ""
+
+#: ../classes/ufbl-lib.php:113 ../classes/ufbl-lib.php:135
+#: ../classes/ufbl-lib.php:228 ../classes/ufbl-lib.php:255
+msgid "Characters exceeded.Max characters allowed is :"
+msgstr ""
+
+#: ../classes/ufbl-lib.php:118 ../classes/ufbl-lib.php:140
+#: ../classes/ufbl-lib.php:233 ../classes/ufbl-lib.php:260
+msgid "Mininum characters required is :"
+msgstr ""
+
+#: ../classes/ufbl-lib.php:157
+msgid "Please enter the valid email address."
+msgstr ""
+
+#: ../classes/ufbl-lib.php:250
+msgid "Only numbers allowed."
+msgstr ""
+
+#: ../classes/ufbl-lib.php:286 ../classes/ufbl-lib.php:291
+msgid "Please enter the correct sum."
+msgstr ""
+
+#: ../classes/ufbl-lib.php:298 ../classes/ufbl-lib.php:307
+msgid "Please check the captcha."
+msgstr ""
+
+#: ../classes/ufbl-lib.php:319
+#: ../inc/views/backend/boxes/display-settings.php:34
+msgid "Form submitted successfully."
+msgstr ""
+
+#: ../classes/ufbl-lib.php:320
+msgid "Validation Errors Occured.Please check and submit the form again."
+msgstr ""
+
+#: ../classes/ufbl-lib.php:343 ../classes/ufbl-model.php:268
+#: ../inc/views/backend/entry-detail.php:25
+msgid "Untitled"
+msgstr ""
+
+#: ../classes/ufbl-lib.php:362
+#: ../inc/views/backend/boxes/email-settings.php:46
+msgid "New Form Submission"
+msgstr ""
+
+#: ../classes/ufbl-lib.php:363
+msgid "No Name"
+msgstr ""
+
+#: ../classes/ufbl-lib.php:393
+msgid "Entry Created On"
+msgstr ""
+
+#: ../classes/ufbl-model.php:22 ../inc/views/backend/form-list.php:113
+#: ../inc/views/backend/form-list.php:127 ../inc/views/backend/new-form.php:7
+#: ../inc/views/frontend/front-form.php:10
+msgid "Contact Form"
+msgstr ""
+
+#: ../classes/ufbl-model.php:43 ../classes/ufbl-model.php:308
+msgid "Something went wrong.Please try again later"
+msgstr ""
+
+#: ../classes/ufbl-model.php:74
+msgid "Status updated."
+msgstr ""
+
+#: ../classes/ufbl-model.php:74
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/cores/save-form.php:135
+msgid "Form Updated Successfully"
+msgstr ""
+
+#: ../inc/views/backend/entry-detail.php:18
+msgid "Entry Posted Date"
+msgstr ""
+
+#: ../inc/views/backend/entry-detail.php:49
+msgid ""
+"It seems that you have deleted the form of this entry.Entry not found in "
+"database!"
+msgstr ""
+
+#: ../inc/views/backend/form-builder.php:12
+msgid "Form Builder"
+msgstr ""
+
+#: ../inc/views/backend/form-builder.php:13
+msgid "Display Settings"
+msgstr ""
+
+#: ../inc/views/backend/form-builder.php:14
+msgid "Email Settings"
+msgstr ""
+
+#: ../inc/views/backend/form-builder.php:29
+#: ../inc/views/backend/boxes/display-settings.php:59
+#: ../inc/views/backend/boxes/email-settings.php:50
+#: ../inc/views/backend/boxes/form-builder-main.php:882
+msgid "Save Form"
+msgstr ""
+
+#: ../inc/views/backend/form-builder.php:30
+#: ../inc/views/backend/form-list.php:68
+#: ../inc/views/backend/boxes/display-settings.php:60
+#: ../inc/views/backend/boxes/email-settings.php:51
+#: ../inc/views/backend/boxes/form-builder-main.php:883
+msgid "Preview"
+msgstr ""
+
+#: ../inc/views/backend/form-builder.php:31
+#: ../inc/views/backend/boxes/display-settings.php:61
+#: ../inc/views/backend/boxes/email-settings.php:52
+#: ../inc/views/backend/boxes/form-builder-main.php:884
+msgid "Note: Please save form before preview."
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:13
+msgid "All Form entries"
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:27
+msgid "Export to CSV"
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:50
+msgid "Previous"
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:70
+msgid "Next"
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:83
+#: ../inc/views/backend/form-entries-list.php:94
+#: ../inc/views/backend/form-list.php:20 ../inc/views/backend/form-list.php:36
+#: ../inc/views/backend/form-list.php:112 ../inc/views/backend/new-form.php:6
+msgid "Form Title"
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:86
+#: ../inc/views/backend/form-entries-list.php:97
+msgid "Entry Recieved"
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:122
+msgid "View Entry"
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:124
+msgid "Are you sure you want to delete this entry?"
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:125
+#: ../inc/views/backend/form-list.php:72
+msgid "Yes"
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:126
+#: ../inc/views/backend/form-list.php:73
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/views/backend/form-entries-list.php:138
+msgid "Entries not found for this form."
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:14
+msgid "Add New Form"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:23 ../inc/views/backend/form-list.php:39
+msgid "Shortcode"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:26 ../inc/views/backend/form-list.php:42
+msgid "Last Modified"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:29 ../inc/views/backend/form-list.php:45
+msgid "Status"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:69
+msgid "Entries"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:71
+msgid "Are you sure you want to delete this form?"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:99
+msgid "Forms not added yet"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:114
+#: ../inc/views/backend/form-list.php:128 ../inc/views/backend/new-form.php:8
+msgid "Please enter the form title"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:117
+msgid "Add Form"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:117
+msgid "Form Created.Redirecting..."
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:126
+msgid "Copy Form Title"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:139
+msgid "Please choose a form to copy."
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:142
+msgid "Copy Form"
+msgstr ""
+
+#: ../inc/views/backend/form-list.php:142
+msgid "Form Copied.Redirecting..."
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:11
+msgid "Disable Plugin Styles"
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:14
+msgid "Check if you want to disable all the plugin styles in the frontend."
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:18
+msgid "Hide Form Title"
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:21
+msgid "Check to hide the form title in frontend form."
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:25
+msgid "Form Width"
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:28
+msgid ""
+"Please provide the width of form either in px or %.Default width is 100%."
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:32
+msgid "Form Submission Message"
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:38
+msgid "Form Error Message"
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:40
+msgid "Validation errors occurred in the form."
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:44
+msgid "Form Template"
+msgstr ""
+
+#: ../inc/views/backend/boxes/display-settings.php:65
+msgid "Template Preview"
+msgstr ""
+
+#: ../inc/views/backend/boxes/email-settings.php:9
+msgid "Email Reciever"
+msgstr ""
+
+#: ../inc/views/backend/boxes/email-settings.php:11
+msgid "Add email"
+msgstr ""
+
+#: ../inc/views/backend/boxes/email-settings.php:32
+msgid "From Email"
+msgstr ""
+
+#: ../inc/views/backend/boxes/email-settings.php:38
+msgid "From Name"
+msgstr ""
+
+#: ../inc/views/backend/boxes/email-settings.php:44
+msgid "Email Subject"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:6
+msgid "Single Line Textfield"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:7
+msgid "Multiple Line Textfield"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:8
+msgid "Email Address"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:9
+msgid "Dropdown Menu"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:10
+msgid "Radio Button"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:11
+msgid "Checkbox"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:12
+msgid "Password"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:13
+msgid "Hidden Field"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:14
+msgid "Number Field"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:15
+msgid "Submit Button"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:16
+msgid "Captcha"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:45
+#: ../inc/views/backend/boxes/form-builder-main.php:124
+#: ../inc/views/backend/boxes/form-fields-html.php:7
+msgid "Untitled Texfield"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:51
+#: ../inc/views/backend/boxes/form-builder-main.php:130
+#: ../inc/views/backend/boxes/form-builder-main.php:221
+#: ../inc/views/backend/boxes/form-builder-main.php:290
+#: ../inc/views/backend/boxes/form-builder-main.php:377
+#: ../inc/views/backend/boxes/form-builder-main.php:461
+#: ../inc/views/backend/boxes/form-builder-main.php:540
+#: ../inc/views/backend/boxes/form-builder-main.php:613
+#: ../inc/views/backend/boxes/form-builder-main.php:662
+#: ../inc/views/backend/boxes/form-builder-main.php:740
+#: ../inc/views/backend/boxes/form-builder-main.php:795
+#: ../inc/views/backend/boxes/form-fields-html.php:13
+#: ../inc/views/backend/boxes/form-fields-html.php:89
+#: ../inc/views/backend/boxes/form-fields-html.php:177
+#: ../inc/views/backend/boxes/form-fields-html.php:243
+#: ../inc/views/backend/boxes/form-fields-html.php:328
+#: ../inc/views/backend/boxes/form-fields-html.php:403
+#: ../inc/views/backend/boxes/form-fields-html.php:481
+#: ../inc/views/backend/boxes/form-fields-html.php:551
+#: ../inc/views/backend/boxes/form-fields-html.php:597
+#: ../inc/views/backend/boxes/form-fields-html.php:673
+#: ../inc/views/backend/boxes/form-fields-html.php:753
+msgid "Settings"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:57
+#: ../inc/views/backend/boxes/form-builder-main.php:136
+#: ../inc/views/backend/boxes/form-builder-main.php:227
+#: ../inc/views/backend/boxes/form-builder-main.php:296
+#: ../inc/views/backend/boxes/form-builder-main.php:383
+#: ../inc/views/backend/boxes/form-builder-main.php:467
+#: ../inc/views/backend/boxes/form-builder-main.php:546
+#: ../inc/views/backend/boxes/form-builder-main.php:619
+#: ../inc/views/backend/boxes/form-builder-main.php:668
+#: ../inc/views/backend/boxes/form-builder-main.php:801
+#: ../inc/views/backend/boxes/form-fields-html.php:19
+#: ../inc/views/backend/boxes/form-fields-html.php:95
+#: ../inc/views/backend/boxes/form-fields-html.php:183
+#: ../inc/views/backend/boxes/form-fields-html.php:249
+#: ../inc/views/backend/boxes/form-fields-html.php:334
+#: ../inc/views/backend/boxes/form-fields-html.php:409
+#: ../inc/views/backend/boxes/form-fields-html.php:487
+#: ../inc/views/backend/boxes/form-fields-html.php:557
+#: ../inc/views/backend/boxes/form-fields-html.php:603
+#: ../inc/views/backend/boxes/form-fields-html.php:679
+msgid "Field Label"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:59
+#: ../inc/views/backend/boxes/form-fields-html.php:21
+msgid "Your Name"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:63
+#: ../inc/views/backend/boxes/form-builder-main.php:142
+#: ../inc/views/backend/boxes/form-builder-main.php:233
+#: ../inc/views/backend/boxes/form-builder-main.php:302
+#: ../inc/views/backend/boxes/form-builder-main.php:389
+#: ../inc/views/backend/boxes/form-builder-main.php:473
+#: ../inc/views/backend/boxes/form-builder-main.php:552
+#: ../inc/views/backend/boxes/form-builder-main.php:674
+#: ../inc/views/backend/boxes/form-fields-html.php:25
+#: ../inc/views/backend/boxes/form-fields-html.php:101
+#: ../inc/views/backend/boxes/form-fields-html.php:189
+#: ../inc/views/backend/boxes/form-fields-html.php:255
+#: ../inc/views/backend/boxes/form-fields-html.php:340
+#: ../inc/views/backend/boxes/form-fields-html.php:415
+#: ../inc/views/backend/boxes/form-fields-html.php:493
+#: ../inc/views/backend/boxes/form-fields-html.php:609
+msgid "Required"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:69
+#: ../inc/views/backend/boxes/form-builder-main.php:166
+#: ../inc/views/backend/boxes/form-builder-main.php:558
+#: ../inc/views/backend/boxes/form-fields-html.php:31
+#: ../inc/views/backend/boxes/form-fields-html.php:125
+#: ../inc/views/backend/boxes/form-fields-html.php:499
+msgid "Max Characters"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:75
+#: ../inc/views/backend/boxes/form-builder-main.php:172
+#: ../inc/views/backend/boxes/form-builder-main.php:564
+#: ../inc/views/backend/boxes/form-fields-html.php:37
+#: ../inc/views/backend/boxes/form-fields-html.php:131
+#: ../inc/views/backend/boxes/form-fields-html.php:505
+msgid "Min Characters"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:81
+#: ../inc/views/backend/boxes/form-builder-main.php:148
+#: ../inc/views/backend/boxes/form-builder-main.php:239
+#: ../inc/views/backend/boxes/form-builder-main.php:308
+#: ../inc/views/backend/boxes/form-builder-main.php:395
+#: ../inc/views/backend/boxes/form-builder-main.php:479
+#: ../inc/views/backend/boxes/form-builder-main.php:570
+#: ../inc/views/backend/boxes/form-builder-main.php:692
+#: ../inc/views/backend/boxes/form-builder-main.php:836
+#: ../inc/views/backend/boxes/form-fields-html.php:43
+#: ../inc/views/backend/boxes/form-fields-html.php:107
+#: ../inc/views/backend/boxes/form-fields-html.php:195
+#: ../inc/views/backend/boxes/form-fields-html.php:261
+#: ../inc/views/backend/boxes/form-fields-html.php:346
+#: ../inc/views/backend/boxes/form-fields-html.php:421
+#: ../inc/views/backend/boxes/form-fields-html.php:511
+#: ../inc/views/backend/boxes/form-fields-html.php:627
+#: ../inc/views/backend/boxes/form-fields-html.php:714
+msgid "Error Message"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:83
+#: ../inc/views/backend/boxes/form-builder-main.php:150
+#: ../inc/views/backend/boxes/form-builder-main.php:241
+#: ../inc/views/backend/boxes/form-builder-main.php:310
+#: ../inc/views/backend/boxes/form-builder-main.php:397
+#: ../inc/views/backend/boxes/form-builder-main.php:481
+#: ../inc/views/backend/boxes/form-fields-html.php:45
+#: ../inc/views/backend/boxes/form-fields-html.php:109
+#: ../inc/views/backend/boxes/form-fields-html.php:197
+#: ../inc/views/backend/boxes/form-fields-html.php:263
+#: ../inc/views/backend/boxes/form-fields-html.php:348
+#: ../inc/views/backend/boxes/form-fields-html.php:423
+msgid "Please fill your name"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:87
+#: ../inc/views/backend/boxes/form-builder-main.php:178
+#: ../inc/views/backend/boxes/form-builder-main.php:245
+#: ../inc/views/backend/boxes/form-builder-main.php:576
+#: ../inc/views/backend/boxes/form-builder-main.php:698
+#: ../inc/views/backend/boxes/form-builder-main.php:842
+#: ../inc/views/backend/boxes/form-fields-html.php:49
+#: ../inc/views/backend/boxes/form-fields-html.php:137
+#: ../inc/views/backend/boxes/form-fields-html.php:201
+#: ../inc/views/backend/boxes/form-fields-html.php:517
+#: ../inc/views/backend/boxes/form-fields-html.php:633
+#: ../inc/views/backend/boxes/form-fields-html.php:720
+msgid "Placeholder"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:89
+#: ../inc/views/backend/boxes/form-fields-html.php:51
+msgid "Your Name here"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:93
+#: ../inc/views/backend/boxes/form-builder-main.php:184
+#: ../inc/views/backend/boxes/form-builder-main.php:251
+#: ../inc/views/backend/boxes/form-builder-main.php:625
+#: ../inc/views/backend/boxes/form-builder-main.php:704
+#: ../inc/views/backend/boxes/form-fields-html.php:55
+#: ../inc/views/backend/boxes/form-fields-html.php:143
+#: ../inc/views/backend/boxes/form-fields-html.php:207
+#: ../inc/views/backend/boxes/form-fields-html.php:563
+#: ../inc/views/backend/boxes/form-fields-html.php:639
+msgid "Pre filled value"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:99
+#: ../inc/views/backend/boxes/form-builder-main.php:190
+#: ../inc/views/backend/boxes/form-builder-main.php:257
+#: ../inc/views/backend/boxes/form-builder-main.php:345
+#: ../inc/views/backend/boxes/form-builder-main.php:428
+#: ../inc/views/backend/boxes/form-builder-main.php:509
+#: ../inc/views/backend/boxes/form-builder-main.php:582
+#: ../inc/views/backend/boxes/form-builder-main.php:631
+#: ../inc/views/backend/boxes/form-builder-main.php:710
+#: ../inc/views/backend/boxes/form-builder-main.php:765
+#: ../inc/views/backend/boxes/form-builder-main.php:849
+#: ../inc/views/backend/boxes/form-fields-html.php:61
+#: ../inc/views/backend/boxes/form-fields-html.php:149
+#: ../inc/views/backend/boxes/form-fields-html.php:213
+#: ../inc/views/backend/boxes/form-fields-html.php:299
+#: ../inc/views/backend/boxes/form-fields-html.php:373
+#: ../inc/views/backend/boxes/form-fields-html.php:453
+#: ../inc/views/backend/boxes/form-fields-html.php:523
+#: ../inc/views/backend/boxes/form-fields-html.php:569
+#: ../inc/views/backend/boxes/form-fields-html.php:645
+#: ../inc/views/backend/boxes/form-fields-html.php:726
+#: ../inc/views/backend/boxes/form-fields-html.php:777
+msgid "ID of the field"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:105
+#: ../inc/views/backend/boxes/form-builder-main.php:196
+#: ../inc/views/backend/boxes/form-builder-main.php:263
+#: ../inc/views/backend/boxes/form-builder-main.php:351
+#: ../inc/views/backend/boxes/form-builder-main.php:434
+#: ../inc/views/backend/boxes/form-builder-main.php:515
+#: ../inc/views/backend/boxes/form-builder-main.php:588
+#: ../inc/views/backend/boxes/form-builder-main.php:637
+#: ../inc/views/backend/boxes/form-builder-main.php:716
+#: ../inc/views/backend/boxes/form-builder-main.php:771
+#: ../inc/views/backend/boxes/form-builder-main.php:855
+#: ../inc/views/backend/boxes/form-fields-html.php:67
+#: ../inc/views/backend/boxes/form-fields-html.php:155
+#: ../inc/views/backend/boxes/form-fields-html.php:219
+#: ../inc/views/backend/boxes/form-fields-html.php:305
+#: ../inc/views/backend/boxes/form-fields-html.php:379
+#: ../inc/views/backend/boxes/form-fields-html.php:459
+#: ../inc/views/backend/boxes/form-fields-html.php:529
+#: ../inc/views/backend/boxes/form-fields-html.php:575
+#: ../inc/views/backend/boxes/form-fields-html.php:651
+#: ../inc/views/backend/boxes/form-fields-html.php:732
+#: ../inc/views/backend/boxes/form-fields-html.php:783
+msgid "Class of the field"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:138
+#: ../inc/views/backend/boxes/form-fields-html.php:97
+msgid "Your Message"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:154
+#: ../inc/views/backend/boxes/form-fields-html.php:113
+msgid "Textarea Rows"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:160
+#: ../inc/views/backend/boxes/form-fields-html.php:119
+msgid "Textarea Columns"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:180
+#: ../inc/views/backend/boxes/form-fields-html.php:139
+msgid "Your message here"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:215
+#: ../inc/views/backend/boxes/form-fields-html.php:171
+msgid "Untitled Email"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:229
+#: ../inc/views/backend/boxes/form-fields-html.php:185
+msgid "Your Email"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:247
+#: ../inc/views/backend/boxes/form-fields-html.php:203
+msgid "Your Email here"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:282
+#: ../inc/views/backend/boxes/form-fields-html.php:235
+msgid "Untitled Dropdown"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:285
+#: ../inc/views/backend/boxes/form-builder-main.php:372
+#: ../inc/views/backend/boxes/form-builder-main.php:455
+#: ../inc/views/backend/boxes/form-fields-html.php:238
+#: ../inc/views/backend/boxes/form-fields-html.php:273
+#: ../inc/views/backend/boxes/form-fields-html.php:274
+#: ../inc/views/backend/boxes/form-fields-html.php:323
+#: ../inc/views/backend/boxes/form-fields-html.php:358
+#: ../inc/views/backend/boxes/form-fields-html.php:359
+#: ../inc/views/backend/boxes/form-fields-html.php:397
+#: ../inc/views/backend/boxes/form-fields-html.php:433
+#: ../inc/views/backend/boxes/form-fields-html.php:434
+msgid "Option 1"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:298
+#: ../inc/views/backend/boxes/form-fields-html.php:251
+msgid "Your Country"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:314
+#: ../inc/views/backend/boxes/form-builder-main.php:401
+#: ../inc/views/backend/boxes/form-builder-main.php:485
+#: ../inc/views/backend/boxes/form-fields-html.php:267
+#: ../inc/views/backend/boxes/form-fields-html.php:352
+#: ../inc/views/backend/boxes/form-fields-html.php:427
+msgid "Options"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:316
+#: ../inc/views/backend/boxes/form-builder-main.php:403
+#: ../inc/views/backend/boxes/form-builder-main.php:487
+#: ../inc/views/backend/boxes/form-fields-html.php:269
+#: ../inc/views/backend/boxes/form-fields-html.php:354
+#: ../inc/views/backend/boxes/form-fields-html.php:429
+msgid "Add Option"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:338
+#: ../inc/views/backend/boxes/form-fields-html.php:293
+msgid "Multiple"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:370
+#: ../inc/views/backend/boxes/form-fields-html.php:321
+msgid "Untitled Radio"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:373
+#: ../inc/views/backend/boxes/form-builder-main.php:456
+#: ../inc/views/backend/boxes/form-fields-html.php:279
+#: ../inc/views/backend/boxes/form-fields-html.php:280
+#: ../inc/views/backend/boxes/form-fields-html.php:324
+#: ../inc/views/backend/boxes/form-fields-html.php:364
+#: ../inc/views/backend/boxes/form-fields-html.php:365
+#: ../inc/views/backend/boxes/form-fields-html.php:398
+#: ../inc/views/backend/boxes/form-fields-html.php:439
+#: ../inc/views/backend/boxes/form-fields-html.php:440
+msgid "Option 2"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:385
+#: ../inc/views/backend/boxes/form-fields-html.php:336
+msgid "Your Gender"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:453
+#: ../inc/views/backend/boxes/form-fields-html.php:395
+msgid "Untitled Checkbox"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:457
+#: ../inc/views/backend/boxes/form-fields-html.php:285
+#: ../inc/views/backend/boxes/form-fields-html.php:286
+#: ../inc/views/backend/boxes/form-fields-html.php:399
+#: ../inc/views/backend/boxes/form-fields-html.php:445
+#: ../inc/views/backend/boxes/form-fields-html.php:446
+msgid "Option 3"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:469
+#: ../inc/views/backend/boxes/form-fields-html.php:411
+msgid "Your Hobbies"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:534
+#: ../inc/views/backend/boxes/form-fields-html.php:475
+msgid "Untitled Password"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:548
+#: ../inc/views/backend/boxes/form-fields-html.php:489
+msgid "Your Password"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:572
+#: ../inc/views/backend/boxes/form-builder-main.php:694
+#: ../inc/views/backend/boxes/form-fields-html.php:513
+#: ../inc/views/backend/boxes/form-fields-html.php:629
+msgid "Please fill number only"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:578
+#: ../inc/views/backend/boxes/form-fields-html.php:519
+#: ../inc/views/backend/boxes/form-fields-html.php:635
+msgid "Your Password here"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:607
+#: ../inc/views/backend/boxes/form-fields-html.php:545
+msgid "Untitled Hidden"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:656
+#: ../inc/views/backend/boxes/form-fields-html.php:591
+msgid "Untitled Number"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:670
+#: ../inc/views/backend/boxes/form-fields-html.php:605
+msgid "Your Number"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:680
+#: ../inc/views/backend/boxes/form-fields-html.php:615
+msgid "Max Value"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:686
+#: ../inc/views/backend/boxes/form-fields-html.php:621
+msgid "Min Value"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:700
+msgid "Your age here"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:736
+#: ../inc/views/backend/boxes/form-fields-html.php:749
+#: ../inc/views/frontend/front-form.php:154
+msgid "Submit"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:741
+#: ../inc/views/backend/boxes/form-fields-html.php:754
+msgid ""
+"If you delete this element then data related with this element will also be "
+"deleted. Are you sure you want to delete this element?"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:746
+#: ../inc/views/backend/boxes/form-fields-html.php:759
+msgid "Submit Button label"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:752
+#: ../inc/views/backend/boxes/form-fields-html.php:765
+msgid "Show Reset Button"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:759
+#: ../inc/views/backend/boxes/form-fields-html.php:771
+msgid "Reset Button label"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:789
+#: ../inc/views/backend/boxes/form-fields-html.php:667
+msgid "Untitled Captcha"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:803
+#: ../inc/views/backend/boxes/form-fields-html.php:681
+msgid "Human Check"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:807
+#: ../inc/views/backend/boxes/form-fields-html.php:685
+msgid "Captcha Type"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:810
+#: ../inc/views/backend/boxes/form-fields-html.php:688
+msgid "Mathematical Captcha"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:811
+#: ../inc/views/backend/boxes/form-fields-html.php:689
+msgid "Google reCaptcha"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:817
+#: ../inc/views/backend/boxes/form-fields-html.php:695
+msgid "Site Key"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:823
+#: ../inc/views/backend/boxes/form-fields-html.php:701
+msgid "Secret Key"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:830
+#: ../inc/views/backend/boxes/form-fields-html.php:708
+msgid ""
+"Google Captcha will only show up in form filled the valid google captcha "
+"keys.Please visit <a href=\"https://www.google.com/recaptcha/admin\" target="
+"\"_blank\">here</a> to get your site and secret key."
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:838
+#: ../inc/views/backend/boxes/form-fields-html.php:716
+msgid "Please verify you are human."
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:844
+#: ../inc/views/backend/boxes/form-fields-html.php:722
+#: ../inc/views/frontend/front-form.php:174
+msgid "Enter Sum"
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-builder-main.php:845
+msgid "Note: Placeholder is only for the mathematical type captcha."
+msgstr ""
+
+#: ../inc/views/backend/boxes/form-fields-html.php:83
+msgid "Untitled Texarea"
+msgstr ""
+
+#: ../inc/views/frontend/front-form.php:156
+msgid "Reset"
+msgstr ""
+
+#: ../inc/views/frontend/preview-form.php:3
+msgid "Form Preview"
+msgstr ""
+
+#: ../inc/views/frontend/preview-form.php:14
+msgid "Preview Mode"
+msgstr ""
+
+#: ../inc/views/frontend/preview-form.php:16
+msgid ""
+"This is just the basic preview and it may look different when used in "
+"frontend as per your theme's styles."
+msgstr ""

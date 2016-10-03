@@ -1,0 +1,540 @@
+/*
+ Theme Name:   Aplite
+ Theme URI:    http://accesspressthemes.com/aplite/
+ Description:  Aplite is a Child Theme of AccessPress Lite. Aplite extend the AccessPress Lite theme with more beautifully crafted design.
+ Author:       AccessPress Themes
+ Author URI:   http://accesspressthemes.com/
+ Template:     accesspress-lite
+ Version:      1.0.5
+ License: GNU  General Public License, version 3 (GPLv3)
+ License URI:  http://www.gnu.org/licenses/gpl-3.0.txt
+ Text Domain:  aplite-reload
+ Tags:         blue, white, light, custom-menu, one-column, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, custom-background, featured-image-header, sticky-post, theme-options, threaded-comments, featured-images, full-width-template, custom-header, flexible-header, responsive-layout
+*/
+
+body, 
+button, 
+input, 
+select, 
+textarea,
+#call-to-action h4,
+.slider-caption .caption-title,
+.slider-caption .caption-description,
+.main-navigation,
+.event-detail h4,
+.testimonial-slider-wrap .all-testimonial,
+#bottom-footer,
+.header-text,
+.single .byline, 
+.group-blog .byline, 
+.posted-on,
+.portofolio-layout .entry-title,
+.portofolio-layout .cat-portfolio-excerpt,
+.cat-testimonial-list .entry-header h1.entry-title{
+	font-family: 'Gentium Basic', serif;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6{
+	font-family: 'Gentium Basic', serif;
+}
+
+body, 
+button, 
+input, 
+select, 
+textarea,
+.testimonial-excerpt,
+.portofolio-layout .cat-portfolio-excerpt{
+	font-size: 16px;
+}
+
+.navigation .nav-links a, 
+.bttn, 
+button, 
+input[type="button"], 
+input[type="reset"], 
+input[type="submit"]{
+	font-size: 15px;
+	background: none;
+	border-radius: 20px;
+	border: 2px solid #1dcfd1;
+	color: #333;
+	padding: 10px 20px;
+}
+
+.navigation .nav-links a:hover, 
+.bttn:hover, 
+button:hover, 
+input[type="button"]:hover, 
+input[type="reset"]:hover, 
+input[type="submit"]:hover{
+	background: #1dcfd1;
+}
+
+.bttn:after{
+	display: none;
+}
+
+#masthead{
+	border-bottom: 1px solid #EEE;
+	position: relative;
+}
+
+#masthead #top-header{
+	background: #1dcfd1;
+}
+
+#header-text{
+	float: left;
+}
+
+.header-text{
+	float: none;
+	color: #FFF;
+	line-height: 38px;
+	margin-bottom: 0;
+	font-size: 16px;
+}
+
+#header-social{
+	float: right;
+}
+
+.socials{
+	float:none;
+	margin: 0;
+}
+
+#header-social .socials a{
+	color: #FFF;
+	border: none;
+	height: auto;
+	width: auto;
+	font-size: 15px;
+	margin: 0 5px;
+	line-height: 38px;
+	font-family: Arial;
+}
+
+#header-social .socials a:hover{
+	background: none;
+}
+
+#header-social .ak-search{
+	display: none;
+}
+
+.main-navigation{
+	float: right;
+	clear: none;
+	background: none;
+	border: 0;
+	margin: 25px 0;
+	position: static;
+}
+
+.menu-right .main-navigation{
+	float: left;
+}
+
+.menu-center .main-navigation{
+	float: none;
+	margin-top: 0;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.menu-center .main-navigation li{
+	display: inline-block;
+	float: none;
+}
+
+.menu-center .main-navigation ul ul li{
+	display: block;
+}
+
+.menu-center .main-navigation > div > ul{
+	display: inline-block;
+}
+
+.main-navigation li{
+	font-size: 16px;
+	line-height: 38px;
+	margin:0 0 0 5px;
+	float: left;
+}
+
+.main-navigation a{
+	color: #333;
+	padding: 0 10px;
+}
+
+.main-navigation .current-menu-parent > a, 
+.main-navigation .current-menu-item > a, 
+.main-navigation .current_page_item > a, 
+.main-navigation .current_page_parent > a,
+.main-navigation li:hover > a{
+	color: #FFF;
+	background: #1dcfd1;
+}
+
+.main-navigation ul ul{
+	border-top: 2px solid #1dcfd1;
+	border-bottom: 1px solid #1dcfd1;
+}
+
+.main-navigation ul ul li{
+	float: none;
+}
+
+#masthead .menu-right .site-branding{
+	float: right;
+	text-align: right;
+}
+
+#masthead .menu-center .site-branding{
+	float: none;
+	text-align: center;
+}
+
+#call-to-action .action-btn{
+	background: none;
+	border:2px solid #FFF;
+	border-radius: 0;
+}
+
+#call-to-action .action-btn:hover{
+	background: #FFF;
+	color:#1dcfd1;
+}
+
+#content{
+	padding: 25px 0;
+}
+
+.bttn:after,
+.event-date-archive,
+.portofolio-layout .entry-title,
+#call-to-action,
+.event-thumbnail .event-date,
+#bottom-section,
+.featured-post .featured-overlay,
+#slider-banner .bx-wrapper .bx-pager.bx-default-pager a:after,
+.number404{
+	background: #1dcfd1;
+}
+
+#masthead .site-branding h1,
+a,
+.main-navigation ul ul li:hover > a, 
+.main-navigation ul ul li.current-menu-item > a,
+.searchform .searchsubmit,
+.nav-links .nav-previous a:before,
+.nav-links .nav-next a:after,
+.featured-post.big-icon h2.has-icon .fa{
+	color: #1dcfd1;
+}
+
+.featured-post.big-icon h2.has-icon .fa{
+	border-color: #1dcfd1;
+}
+
+.testimonial-wrap,
+.bx-wrapper .bx-pager.bx-default-pager a{
+	background: rgba(0,0,0,0.1)
+}
+
+.testimonial-wrap:after{
+	border-color: rgba(0,0,0,0.1) transparent transparent;
+}
+
+#slider-banner .bx-wrapper .bx-pager.bx-default-pager a{
+	box-shadow: 0 0 0 2px #1dcfd1 inset
+}
+
+.nav-links .nav-previous a:hover:before,
+.nav-links .nav-next a:hover:after{
+	color: #FFF;
+}
+
+.searchform,
+.page-header{
+	border-color: #1dcfd1;
+	position: relative;
+}
+
+.event-thumbnail .event-date{
+	border-radius: 0 0 30px 0;
+}
+
+.sidebar .event-thumbnail .event-date{
+	border-radius: 0;
+}
+
+.event-list .event-thumbnail{
+	border-radius: 12px 0;
+	overflow: hidden;
+}
+
+.featured-post .featured-image{
+	border-radius: 30px 0;
+}
+
+.featured-post .featured-overlay{
+	border-radius: 0 30px;
+}
+
+.testimoinal-client-name{
+	font-weight: 400;
+}
+
+#top-footer{
+	font-size: 16px;
+	background: none;
+	position: relative;
+	color: #BBB;
+}
+
+#top-footer ul li{
+	border-bottom:1px dashed #666;
+}
+
+#top-footer h3.widget-title{
+	color: #AAA;
+}
+
+.site-footer a{
+	color: #BBB;
+}
+
+#colophon{
+	position: relative;
+	background: url(images/footer-bg.jpg) no-repeat top center;
+	background-size: cover;
+}
+
+#colophon .footer-overlay{
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	background:rgba(0,0,0,0.75);
+}
+
+#bottom-footer{
+	background:rgba(0,0,0,0.4);
+	position: relative;
+}
+
+#bottom-footer .site-info{
+	color: #AAA;
+}
+
+.sidebar h3.widget-title{
+	background: none;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	position: relative;
+	border-left: 0;
+	padding-left: 5px;
+	border-bottom: 1px solid #1dcfd1;
+}
+.sidebar .event-list .event-detail{
+	font-size: 16px;
+}
+
+.sidebar h3.widget-title:after,
+.page-header:after{
+	content: "";
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	border-color: transparent #1dcfd1 #1dcfd1 transparent; 
+	border-style: solid;
+	border-width: 6px;
+}
+
+#blog-post article.hentry, 
+.search article.hentry, 
+.archive article.hentry, 
+.tag article.hentry, 
+.category article.hentry, 
+#ak-blog-post article.hentry,
+.cat-event-list{
+	border-bottom: 2px dotted #F1F2F3;
+}
+
+.cat-portfolio-list:hover .portofolio-layout{
+	background: rgba(0,0,0,0.3)
+}
+
+.cat-event-list .cat-event-more{
+	color: #333;
+}
+
+.cat-event-list .cat-event-more:hover{
+	color: #FFF;
+}
+
+.event-list{
+	border-bottom: 1px dotted #f2f2f2
+}
+
+.cat-testimonial-list{
+	margin-bottom: 90px;
+}
+
+.cat-testimonial-list .cat-testimonial-excerpt{
+	border:2px solid #1dcfd1;
+	background: none;
+}
+
+.cat-testimonial-list .cat-testimonial-excerpt:before {
+  border: none;
+  background: #1dcfd1;
+  height: 2px;
+  width: 24px;
+  left: 0;
+  margin-left: -25px;
+}
+
+.cat-testimonial-list:nth-child(odd) .cat-testimonial-excerpt:before{
+	left: auto;
+	right: 0;
+	margin-right: -25px;
+}
+
+.cat-testimonial-list .entry-header{
+	background: #1dcfd1; 	
+	padding: 0;
+	border-radius: 20px 0;
+	overflow: hidden;
+}
+
+.cat-testimonial-list .entry-header h1.entry-title{
+	color: #FFF;
+}
+
+.slider-caption{
+	height: 100%;
+	top: 0;
+}
+
+.slider-caption .ak-container{
+	position: absolute;
+	top: 50%;
+	left:50%;
+	margin-left: -585px;
+}
+
+.slider-caption .caption-title{
+}
+
+#slider-banner .bx-wrapper .bx-controls-direction a{
+	background-color: rgba(0,0,0,0.3);
+	background-image: url(images/arrow.png); 
+}
+
+.bx-wrapper .bx-prev{
+	background-position: -46px 16px !important;
+}
+
+.bx-wrapper .bx-next{
+	background-position: 17px 16px !important;
+}
+#top-footer .searchform .s{
+	  width: calc(100% - 38px);
+	  border: 0;
+}
+
+.testimonial-sidebar .testimonial-list{
+	background: none;
+	border-bottom:2px solid #1dcfd1 ;
+	border-radius: 0;
+}
+
+.testimonial-sidebar .testimonial-list:after{
+	border-color:#1dcfd1 transparent transparent;
+}
+
+.event-detail h4 a:hover{
+	color: #1dcfd1;
+}
+
+.rtl .main-navigation{
+	float: left;
+}
+
+.rtl .main-navigation li{
+	float: right;
+}
+
+.rtl .main-navigation ul ul{
+	left: auto;
+	right: 0;
+}
+
+.rtl .main-navigation ul ul li{
+	float: none;
+}
+
+.rtl .sidebar h3.widget-title,
+.rtl .page-header{
+	border-right:0;
+}
+
+
+@media screen and (max-width:1200px){
+	.header-text{
+		display: block !important;
+	}
+	.socials{
+		margin-bottom: 0 !important;
+	}
+}
+
+@media screen and (max-width:1170px){
+	.slider-caption .ak-container{
+		left: 0;
+		margin-left: 0;
+	}
+}
+
+@media screen and (max-width:940px){
+	#masthead .site-branding{
+		float: left !important;
+		text-align: left !important;
+	}
+	.main-navigation{
+		margin-top: 25px !important;
+		float: right !important;
+	}
+	.menu-center .main-navigation > div > ul{
+		display: none;
+	}
+	.main-navigation .menu{
+		top: 100% !important;
+		background: #1dcfd1 !important;
+	}
+	.main-navigation .menu li{
+		margin: 0;
+		border-bottom:1px solid rgba(0,0,0,0.1) !important;
+	}
+
+	.main-navigation a{
+		color: #FFF;
+	}
+
+}
+
+@media screen and (max-width:768px){
+	.header-text{
+		display: none !important;
+	}
+}

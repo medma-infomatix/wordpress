@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Photo-video-gallery-master\n"
+"POT-Creation-Date: 2016-02-08 03:12-0800\n"
+"PO-Revision-Date: 2016-02-08 03:12-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../gallery-setting-metabox.php:110 ../photo-video-gallery-master.php:178
+msgid "Apply Setting On Gallery"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:117
+msgid "Product by WebHunt"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:121
+msgid "Transition Effect"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:126
+msgid "Effect 1"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:127
+msgid "Effect 2"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:138
+msgid "Image Hover Color"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:143
+msgid "Sky Blue"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:148
+msgid "Red"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:153 ../gallery-setting-metabox.php:170
+#: ../gallery-setting-metabox.php:188 ../gallery-setting-metabox.php:206
+msgid "Black"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:160
+msgid "Label Background Color"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:165 ../gallery-setting-metabox.php:183
+#: ../gallery-setting-metabox.php:201
+msgid "White"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:178
+msgid "Label Text Color"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:196
+msgid "Description Color"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:214
+msgid "Gallery Layout"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:219
+msgid "Two Column"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:228
+msgid "Show Gallery Title"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:233 ../gallery-setting-metabox.php:250
+#: ../gallery-setting-metabox.php:267 ../gallery-setting-metabox.php:284
+#: ../gallery-setting-metabox.php:424
+msgid "Yes"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:238 ../gallery-setting-metabox.php:255
+#: ../gallery-setting-metabox.php:272 ../gallery-setting-metabox.php:289
+#: ../gallery-setting-metabox.php:429
+msgid "No"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:245
+msgid "Show Image Label"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:262
+msgid "Show Description"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:279
+msgid "Read More Button"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:296
+msgid "Button Text"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:306
+msgid "Open Link"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:311
+msgid "In Same Tab"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:316
+msgid "In New Tab"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:323
+msgid "Font Style"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:328
+msgid "Arial"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:329
+msgid "Arial Black"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:330
+msgid "Courier New"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:331
+msgid "Georgia"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:332
+msgid "Grande"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:333
+msgid "Helvetica Neue"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:334
+msgid "Impact"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:335
+msgid "Lucida"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:336
+msgid "Lucida Grande"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:337
+msgid "OpenSansBold"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:338
+msgid "Palatino"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:339
+msgid "Sans"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:340
+msgid "Sans-Serif"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:341
+msgid "Tahoma"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:342
+msgid "Times New Roman"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:343
+msgid "Trebuchet"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:344
+msgid "Verdana"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:353
+msgid "Lable Font Size"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:380
+msgid "Description Font Size"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:404
+msgid "Light Box Styles"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:409
+msgid "Swipe Box"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:419
+msgid "Image Border"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:436
+msgid "Custom CSS"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:442
+msgid "Note"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:442
+msgid "Please Do Not Use"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:442
+msgid "Style"
+msgstr ""
+
+#: ../gallery-setting-metabox.php:442
+msgid "Tag with Custom CSS"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:116 ../photo-video-gallery-master.php:117
+#: ../photo-video-gallery-master.php:128
+msgid "Photo Video Gallery Master"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:118 ../photo-video-gallery-master.php:119
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:120
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:121
+msgid "New Gallery"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:122
+msgid "View Gallery"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:123
+msgid "Search Gallery"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:124 ../photo-video-gallery-master.php:592
+msgid "No Gallery found"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:125
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:126
+msgid "Parent Gallery:"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:127
+msgid "All Galleries"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:158
+msgid "Portfolio Galleries"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:159
+msgid "Galleries Shortcode"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:160
+msgid "Date"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:177
+msgid "Add Images"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:179
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:182
+msgid "We need your reviews in order to improve our services"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:185
+msgid "Pro Features"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:247
+msgid "RATE US"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:255
+msgid "Responsive Design"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:256
+msgid "10 Beautiful Transition Effects"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:257
+msgid "Three Type Gallery Layout"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:258
+msgid "Isotope/Masonry Effects"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:259
+msgid "Unlimited Hover Color"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:260
+msgid "Youtube/Vimeo Video"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:261
+msgid "Extrenal Link"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:262
+msgid "Rectangular/Circular Image Design Layout"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:263
+msgid "All Gallery Shortcode"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:264
+msgid "Each Gallery has Unique Shortcode"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:265
+msgid "500+ of Font Style"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:266
+msgid "2 Types Of Lightbox"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:267
+msgid "Drag and Drop image Position"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:268
+msgid "Multiple Image uploader"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:269
+msgid "Shortcode Button on post or page"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:270
+msgid "10 Types of Hover Color Opacity"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:271
+msgid "Unique settings for each gallery"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:272
+msgid "Hide/Show gallery Title and label"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:273
+msgid "Hide/Show gallery Discription and View More Button"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:274
+msgid "Google Fonts"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:285
+msgid "Documention"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:286
+msgid "View Live Demo"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:287
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:291
+msgid "Tips"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:291
+msgid ""
+"Upload all gallery images using Add New Image button. Do not use/add pre-"
+"uploaded images which are uploaded previously using Media/Post/Page. Minimum "
+"Dimensions for Upload Image is 400*400."
+msgstr ""
+
+#: ../photo-video-gallery-master.php:300
+msgid "Add New Media"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:330 ../photo-video-gallery-master.php:406
+msgid "Display Type"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:333 ../photo-video-gallery-master.php:409
+msgid "Image"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:334 ../photo-video-gallery-master.php:410
+msgid "Video"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:335 ../photo-video-gallery-master.php:356
+#: ../photo-video-gallery-master.php:411 ../photo-video-gallery-master.php:429
+msgid "Link"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:348 ../photo-video-gallery-master.php:421
+msgid "Label"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:352 ../photo-video-gallery-master.php:425
+msgid "Video URL"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:360 ../photo-video-gallery-master.php:434
+msgid "Description"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:388
+msgid "Use below shortcode in any Page/Post to publish your gallery"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:552 ../photo-video-gallery-master.php:553
+msgid "Select Gallery to insert into post"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:556
+msgid "Portfolio Gallery Shortcode"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:574
+msgid "Select Responive Portfolio Gallery To Insert Into Post"
+msgstr ""
+
+#: ../photo-video-gallery-master.php:589
+msgid "Insert Gallery Shortcode"
+msgstr ""
